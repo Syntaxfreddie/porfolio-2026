@@ -84,7 +84,7 @@ div.section-one {
   align-items: center;
   padding: 10rem;
   background-size: cover;
-  margin: 0.5rem auto;
+  margin: 0 auto;
   width: 100%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   height: 25rem;
